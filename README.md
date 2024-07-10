@@ -1,4 +1,5 @@
-## Hi there 👋
+## ：當你寫出來的程式一團糟但他還可以運作
+![image](https://i.imgur.com/vd9I59y.gif)
 
 <!--
 **JuneLin2001/JuneLin2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
