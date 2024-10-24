@@ -60,9 +60,9 @@ Primer Design System
 
 
 # ⚡ GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JuneLin2001&theme=react)](https://git.io/streak-stats)
-[![JuneLin2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuneLin2001)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuneLin2001)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuneLin2001&layout=compact)](https://github.com/JuneLin2001/github-readme-stats)
+
 
 
 
