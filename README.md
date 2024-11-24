@@ -1,13 +1,15 @@
 # 💫 About Me:
 
-## Hi there👋 I'm Yen-Chun Lin
-- Highly passionate about front-end development and dedicated to continuously enhancing my skills in **React**.
-- With a strong eagerness to contribute, look forward to collaborating with team to drive innovation and success.
+## Hi there👋 This is Yen-Chun Lin
+- 💻 I'm a junior front-end developer with a passion for learning new things!  
+- 🌍 I'm based in Taipei, Taiwan  
+- 📈 I'm currently working on a 3D website called Focusnow.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuneLin2001&repo=Focusnow&bg_color=ffffff)](https://github.com/JuneLin2001/Focusnow)
 
 ## 🌐 Socials:
-
-📫 Feel free to reach me out yenchunlin2001@gmail.com
-
+- 📫 Feel free to reach me out yenchunlin2001@gmail.com  
+- 💬 Or ask me about anything [here](https://github.com/JuneLin2001/JuneLin2001/issues)
 
 ## 💻 Tech Stack:
 
@@ -25,6 +27,10 @@
 [![Chart.js](https://img.shields.io/badge/chartjs-%23ff6384.svg?style=for-the-badge&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
 [![Context API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)](https://reactjs.org/docs/context.html)
 [![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react)](https://zustand-demo.pmnd.rs/)
+
+### Back-end Development
+[![Node.js](https://img.shields.io/badge/node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 
 ### UI Libraries
 [![Shadcn](https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
@@ -72,6 +78,10 @@
 ## ⚡ GitHub Stats:
 [![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuneLin2001)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuneLin2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=JuneLin2001&style=for-the-badge&abbreviated=true" alt="Profile Views">
+</p>
 
 <h2  align="center">⬇️ Check Out My Projects ⬇️ </h2> 
 
