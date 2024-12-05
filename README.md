@@ -31,10 +31,18 @@
 ### Back-end Development
 [![Node.js](https://img.shields.io/badge/node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
+[![socket.io](https://img.shields.io/badge/socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
+[![jwt](https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![Mongoose](https://img.shields.io/badge/Mongoose-5961F9?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
+
+### Database
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
 
 ### UI Libraries
 [![Shadcn](https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 [![Primer Design System](https://img.shields.io/badge/Primer_Design_System-2088ff.svg?style=for-the-badge&logo=github&logoColor=white)](https://primer.style/)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 ### WebGL
 [![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
@@ -43,6 +51,7 @@
 ### Cloud Services
 [![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](https://firebase.google.com/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![render](https://img.shields.io/badge/render-black?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 
 ### Version Control
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -57,6 +66,7 @@
 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
 [![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)](https://prettier.io/)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+
 
 ### CI/CD
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
