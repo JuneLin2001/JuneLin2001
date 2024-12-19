@@ -96,6 +96,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuneLin2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
