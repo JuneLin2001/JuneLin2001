@@ -94,6 +94,9 @@
 [![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuneLin2001)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuneLin2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=JuneLin2001&style=for-the-badge&abbreviated=true" alt="Profile Views">
 </p>
