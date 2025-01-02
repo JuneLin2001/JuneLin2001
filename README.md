@@ -100,15 +100,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2024 - To: 01 January 2025
+From: 25 December 2024 - To: 01 January 2025
 
-Total Time: 11 hrs 10 mins
+Total Time: 0 secs
 
-TypeScript   3 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   33.51 %
-Vue.js       2 hrs 52 mins   ██████░░░░░░░░░░░░░░░░░░░   24.44 %
-Python       2 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   23.45 %
-Other        35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-JSON         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
