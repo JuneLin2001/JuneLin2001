@@ -100,15 +100,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2025 - To: 13 January 2025
+From: 07 January 2025 - To: 14 January 2025
 
-Total Time: 32 hrs 24 mins
+Total Time: 31 hrs 19 mins
 
-JavaScript   27 hrs 41 mins  █████████████████████▒░░░   85.40 %
-Python       1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-JSON         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-Docker       48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-YAML         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+JavaScript   27 hrs 43 mins  ██████████████████████░░░   88.40 %
+Python       1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Docker       48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+YAML         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+JSON         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
