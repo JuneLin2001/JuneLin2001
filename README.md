@@ -29,7 +29,8 @@
 [![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react)](https://zustand-demo.pmnd.rs/)
 [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
-[![React Three/Fiber](https://img.shields.io/badge/react_three/fiber-black?style=for-the-badge&logo=react&logoColor=white)](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+[![React Three/Fiber](https://img.shields.io/badge/react_three/fiber-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+[![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white)](https://www.i18next.com/)
 
 ### Back-end Development
 [![Node.js](https://img.shields.io/badge/node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
