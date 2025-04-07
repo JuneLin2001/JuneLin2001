@@ -96,13 +96,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2025 - To: 05 April 2025
+From: 30 March 2025 - To: 06 April 2025
 
-Total Time: 4 hrs 3 mins
+Total Time: 3 hrs 32 mins
 
-TypeScript   3 hrs 30 mins   █████████████████████▓░░░   86.37 %
-C            31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+TypeScript   3 hrs 30 mins   ████████████████████████▓   99.01 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
