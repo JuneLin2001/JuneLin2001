@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-## Hi there👋 This is Yen-Chun Lin
+## Hi there👋 This is William Lin
 - 💻 I'm a junior front-end developer with a passion for learning new things!  
 - 🌍 I'm based in Taipei, Taiwan  
 - 📈 I'm currently working on a 3D website called Focusnow.
@@ -69,7 +69,7 @@
 
 ### Artificial Intelligence Tools
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
-[![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)](https://codeium.com/)
+[![Windsurf](https://img.shields.io/badge/Windsurf-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)](https://windsurf.com/)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai/)
 
 
