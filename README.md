@@ -98,15 +98,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2025 - To: 16 September 2025
+From: 10 September 2025 - To: 17 September 2025
 
-Total Time: 3 hrs 49 mins
+Total Time: 5 hrs 9 mins
 
-TypeScript   2 hrs 28 mins   ████████████████▒░░░░░░░░   64.94 %
-Python       59 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
-JSON         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Docker       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+TypeScript   3 hrs 46 mins   ██████████████████▒░░░░░░   73.19 %
+Python       1 hr 15 mins    ██████░░░░░░░░░░░░░░░░░░░   24.31 %
+HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
