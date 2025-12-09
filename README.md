@@ -98,15 +98,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
-Total Time: 21 mins
+Total Time: 0 secs
 
-HTML         12 mins         ██████████████░░░░░░░░░░░   56.08 %
-TypeScript   8 mins          █████████▒░░░░░░░░░░░░░░░   37.54 %
-CSS          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
