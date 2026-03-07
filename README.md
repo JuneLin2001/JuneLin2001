@@ -105,15 +105,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2026 - To: 05 March 2026
+From: 27 February 2026 - To: 06 March 2026
 
-Total Time: 12 hrs 37 mins
+Total Time: 13 hrs 51 mins
 
-TypeScript   10 hrs 16 mins        ████████████████████▒░░░░   80.84 %
-JavaScript   1 hr 40 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
-Docker       18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-JSON         9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Bash         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+TypeScript   11 hrs 30 mins        ████████████████████▓░░░░   82.85 %
+JavaScript   1 hr 41 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
+MDX          14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+HTML         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+JSON         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
