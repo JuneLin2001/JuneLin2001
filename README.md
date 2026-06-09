@@ -105,15 +105,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2026 - To: 07 June 2026
+From: 01 June 2026 - To: 08 June 2026
 
-Total Time: 14 hrs 16 mins
+Total Time: 17 hrs 42 mins
 
-TypeScript                 10 hrs 57 mins        ██████████████████▓░░░░░░   74.51 %
-Nginx configuration file   1 hr 34 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-JSON                       35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Svelte                     30 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-HTML                       26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+TypeScript                 14 hrs 51 mins        ████████████████████▒░░░░   81.55 %
+Nginx configuration file   1 hr 3 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+JSON                       35 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Other                      30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Svelte                     30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->
